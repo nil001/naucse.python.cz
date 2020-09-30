@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTEND:20201007T170000Z
+DTSTART:20201007T150000Z
+SUMMARY:Webové aplikace — Flask
+UID:https://naucse.python.cz/2020/pyladies-ostrava-podzim-pokrocili/sessions/flask/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200916T170000Z
+DTSTART:20200916T150000Z
+SUMMARY:Souborové systémy a cesty — pathlib
+UID:https://naucse.python.cz/2020/pyladies-ostrava-podzim-pokrocili/sessions/pathlib/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200909T170000Z
+DTSTART:20200909T150000Z
+SUMMARY:Úvodní hodina\, představení kurzu a dekorátory
+UID:https://naucse.python.cz/2020/pyladies-ostrava-podzim-pokrocili/sessions/decorators/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200923T170000Z
+DTSTART:20200923T150000Z
+SUMMARY:Rozhraní pro příkazovou řádku
+UID:https://naucse.python.cz/2020/pyladies-ostrava-podzim-pokrocili/sessions/cli/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200930T170000Z
+DTSTART:20200930T150000Z
+SUMMARY:Weboví klienti — Requests
+UID:https://naucse.python.cz/2020/pyladies-ostrava-podzim-pokrocili/sessions/requests/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20201209T180000Z
+DTSTART:20201209T160000Z
+SUMMARY:Předpokládaný konec kurzu
+UID:https://naucse.python.cz/2020/pyladies-ostrava-podzim-pokrocili/sessions/end/
+END:VEVENT
+END:VCALENDAR
